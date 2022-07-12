@@ -1,0 +1,16 @@
+MIT: 7.3%
+Stanford University: 5.2%
+Harvard University: 5%
+Caltech: 6.7%
+
+
+Princeton University: 5.6%
+Cornell University: 10.7%
+Yale University: 6.5%
+Colombia University: 6.7%
+University of Michigan: 26.1%
+Duke University: 7.7%
+Carnegie mellon: 17.3%
+Georgia Institute of Technology: 21.3%
+USC: 16.1%
+University of Chicago: 7.3%
